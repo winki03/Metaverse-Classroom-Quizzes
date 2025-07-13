@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611281036193",
+    "project_id": "rtcg-metaverse",
+    "storage_bucket": "rtcg-metaverse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611281036193:android:2584f79d31ee1c8197e1e0",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.rtcgAssignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALQOmcIxGC4WPMuUrxo5JHToyldc_-Ogs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
